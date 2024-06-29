@@ -1,4 +1,5 @@
 ![Screenshot 2024-06-29 133741](https://github.com/Anki237/Evaluation_Submission_AnkitaVerma/assets/172264982/94831936-a06e-4a6e-8d5a-e5c45435de07)
+
 The URL  provided leads to the login page of OrangeHRM, an open-source human resource management system. This platform is designed to help organizations manage their HR processes, including employee records, leave management, and recruitment. The demo site allows users to explore and evaluate the features of OrangeHRM without needing to install it locally.
 Objective
 To perform Functional Testing on the Orangehrm Web Application, ensure compatibility across various browsers and address any performance issues.
